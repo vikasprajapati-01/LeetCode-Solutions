@@ -17,7 +17,7 @@ class Solution {
             }
         }
 
-        if(j == needle.length) {
+        if(j == needle.length()) {
             return i - j;
         }
 
